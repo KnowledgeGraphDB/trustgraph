@@ -20,4 +20,5 @@ trustgraph/trustgraph/trustgraph_version.py
 vertexai/
 venv/
 .venv/
-.env
+config.bat
+node_modules
